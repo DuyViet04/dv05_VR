@@ -11,6 +11,7 @@ public class Joystick : MonoBehaviour
     private Vector3 touchPosition;
     private Vector3 basePosition;
     private Vector3 joystickDirection;
+    public Vector3 JoystickDirection => this.joystickDirection;
     private float radius;
     private bool isTouch = false;
 
@@ -68,5 +69,6 @@ public class Joystick : MonoBehaviour
         this.isTouch = false;
         this.joystickBackground.position = this.basePosition;
         this.joystickHandle.position = this.basePosition;
+        this.joystickDirection = Vector3.zero;
     }
 }

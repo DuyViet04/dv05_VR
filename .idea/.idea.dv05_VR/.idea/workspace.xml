@@ -108,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758271284100</updated>
-      <workItem from="1758271286389" duration="649000" />
+      <workItem from="1758271286389" duration="1428000" />
     </task>
     <task id="LOCAL-00001" summary="add initial XML configuration files for Android project and migration services">
       <option name="closed" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758271939492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update scene paths and add auto import settings in workspace configuration">
+      <option name="closed" value="true" />
+      <created>1758272860862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758272860863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +154,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add initial XML configuration files for Android project and migration services" />
-    <option name="LAST_COMMIT_MESSAGE" value="add initial XML configuration files for Android project and migration services" />
+    <MESSAGE value="update scene paths and add auto import settings in workspace configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="update scene paths and add auto import settings in workspace configuration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
